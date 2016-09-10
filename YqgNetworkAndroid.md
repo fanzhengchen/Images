@@ -1,7 +1,7 @@
 # 一起逛HTTP请求部分结构示意图
 
 ### 网络模块结构示意图 包含 Volley 部分
-![image](http://upload-images.jianshu.io/upload_images/2987776-5d0ae4d2f1f4c317.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://raw.githubusercontent.com/fanzhengchen/Images/master/NetworkArchitecture.png)
 
 
 
